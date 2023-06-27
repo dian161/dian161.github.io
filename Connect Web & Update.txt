@@ -1,0 +1,12 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dian161/dian161.github.io.git
+git push -u origin main
+
+################UPDATE############
+run this 1 1 in terminal @Vscode
+git add .
+git commit -m "first commit"
+git push origin main
