@@ -19,9 +19,9 @@
 
 /* Colors */
 :root {
-  --color-default: #fafafa;
-  --color-primary: #27a776;
-  --color-secondary: #161718;
+  --color-default: #ffffff;
+  --color-primary: #ac57e6;
+  --color-secondary: #0c0c0b;
 }
 
 /* Smooth scroll behavior */
@@ -35,7 +35,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-color: #000;
+  background-color: #000000;
 }
 
 a {
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #32cf93;
+  color: #bd7aea;
   text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ h6 {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #5bd9a9;
+  background: #bd7aea;
   margin: 4px 10px;
 }
 
@@ -135,7 +135,7 @@ h6 {
 }
 
 .page-header .cta-btn:hover {
-  background: #2cbc85;
+  background: #bd7aea;
 }
 
 /*--------------------------------------------------------------
@@ -351,6 +351,7 @@ h6 {
 @media (min-width: 1280px) {
   .navbar {
     padding: 0;
+    justify-content: center;
   }
 
   .navbar ul {
