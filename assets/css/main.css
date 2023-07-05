@@ -162,7 +162,7 @@ h6 {
 }
 
 .scroll-top:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background:  #bd7aea(39, 167, 118, 0.8);
   color: #fff;
 }
 
@@ -376,7 +376,7 @@ h6 {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 13px;
-    font-weight: 400;
+    font-weight: 400;   
     color: rgba(255, 255, 255, 0.5);
     white-space: nowrap;
     transition: 0.3s;
@@ -871,7 +871,7 @@ h6 {
 }
 
 .gallery-single .portfolio-info .btn-visit:hover {
-  background: #2cbc85;
+  background:  #bd7aea;
 }
 
 .gallery-single .portfolio-description h2 {
@@ -917,7 +917,7 @@ h6 {
 
 .gallery-single .portfolio-description .testimonial-item .quote-icon-left,
 .gallery-single .portfolio-description .testimonial-item .quote-icon-right {
-  color: #5bd9a9;
+  color:  #bd7aea;
   font-size: 26px;
   line-height: 0;
 }
@@ -1158,7 +1158,7 @@ h6 {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(39, 167, 118, 0.8);
+  background: #bd7aea(39, 167, 118, 0.8);
 }
 
 @keyframes animate-loading {
@@ -1230,7 +1230,7 @@ h6 {
 }
 
 .hero .btn-get-started:hover {
-  background: #2cbc85;
+  background:  #bd7aea;
 }
 
 @media (max-width: 768px) {
